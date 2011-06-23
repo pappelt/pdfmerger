@@ -1,0 +1,8 @@
+#simple webinterface to upload several pdf-files and merge (+ download) them into a single file.
+
+##german mini-manual for the webgui
+ihr könnt einfach auf den Button "Upload a File" klicken und eine (wahlweise auch mehrere, dafür die Strg-Taste beim auswählen gedrückt halten) PDF-Datei auswählen und auf "öffnen" (oder was auch immer auf dem Knöppi steht), danach startet automatisch der Upload und es wird eine Fortschrittsanzeige eingeblendet.
+
+Wenn der Upload fertig ist, die Seite mit F5 neu laden (das hab ich in der Kürze der Zeit nicht eleganter hinbekommen) und die hochgeladenen Dateien werden angezeigt (Im Moment alle Dateien, die hochgeladen man so hochgeladen hat, die werden aber automatisch nach 12 Stunden gelöscht)...
+
+Dann die Dateien die zusammen sollen anhaken und auf den Knopf "merge" klicken; nach einem kurzen Moment erscheint ein Download-Link zu dem neuen PDF...
