@@ -1,0 +1,10 @@
+* { font-family: Verdana, Arial; size: 14px; color: #000 }
+#info { width: 100%; display: block; margin: 3px }
+/*#uploadSection { float: left }*/
+#file-uploader { float: left; width: 240px; height: 300px; padding-bottom: 20px }
+#mergebutton { display:block; /* or inline-block */ width: 105px; padding: 3px; text-align: center; background:#c0c0c0; border:1px solid #000; color:#000; font-size: 15px }
+#mergebutton:hover {background:#AAA;}
+
+.box { width: 500px; height: auto; margin: 3px; padding: 3px; border: 1px solid #000; background: #EEE; float: left }
+
+ul { display: block; margin:0; padding:0 }

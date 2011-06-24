@@ -36,6 +36,5 @@
 	$filename = rand();
 	$pdf->Output("downloads/{$filename}.pdf","F");
 
-	var_dump($config['downloadFolder']);
 	echo "Ready, Download <a href=\"{$config['downloadFolder']}{$filename}.pdf\">this</a>";
 ?>
